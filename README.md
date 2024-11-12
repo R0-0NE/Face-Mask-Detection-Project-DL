@@ -1,4 +1,4 @@
-# Face-Mask-Detection-Project-DL
+# Face Mask Detection Project DL
 
 ##	Problem Statement :
 
