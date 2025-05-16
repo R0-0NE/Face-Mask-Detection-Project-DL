@@ -1,6 +1,6 @@
 # Face Mask Detection Project DL
 
-##	Problem Statement :
+###	Problem Statement :
 
 The widespread adoption of face masks as a preventive measure against the transmission of infectious diseases, particularly during the COVID-19 pandemic, has underscored the need for effective mechanisms to monitor and enforce mask-wearing compliance in public settings. However, manual monitoring of mask adherence in crowded environments presents logistical challenges and is resource-intensive. Additionally, variations in mask types, facial expressions, and lighting conditions further complicate the task of accurately identifying individuals who are not wearing masks.
 To address these challenges, this project aims to develop a robust and efficient face mask detection system using computer vision 
